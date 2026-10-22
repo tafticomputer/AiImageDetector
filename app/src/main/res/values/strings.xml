@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تشخیص تصویر هوش مصنوعی</string>
+    <string name="pick_image">انتخاب تصویر</string>
+    <string name="pick_pdf">انتخاب فایل PDF</string>
+    <string name="no_file">هنوز فایلی انتخاب نشده است</string>
+    <string name="analyzing">در حال تحلیل…</string>
+    <string name="verdict_ai">احتمال زیاد: ساخته‌شده با هوش مصنوعی</string>
+    <string name="verdict_suspicious">مشکوک: نشانه‌هایی از تولید مصنوعی دیده می‌شود</string>
+    <string name="verdict_clear">نشانه‌ی قطعی از هوش مصنوعی پیدا نشد</string>
+    <string name="score_fmt">امتیاز احتمال تولید مصنوعی: %1$d از ۱۰۰</string>
+    <string name="findings_title">جزئیات بررسی</string>
+    <string name="error_fmt">خطا در تحلیل فایل: %1$s</string>
+    <string name="disclaimer">توجه: این برنامه فقط نشانه‌های فنی (متادیتا، برچسب‌ها و ردپای ابزارهای هوش مصنوعی، آمار پیکسلی) را بررسی می‌کند و نتیجه‌ی قطعی نیست. نبودن نشانه به معنی واقعی بودن تصویر نیست، چون تصاویر ساخته‌شده یا بازذخیره‌شده ممکن است متادیتا نداشته باشند.</string>
+</resources>
